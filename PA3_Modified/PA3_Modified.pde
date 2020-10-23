@@ -1,4 +1,5 @@
 //PA Modified from Samuel Adams
+//Added Music too!
 //https://github.com/sadams0978/
 //Pacman and Ghost variables
 float speed = 1;
